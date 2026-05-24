@@ -3,7 +3,7 @@
 Task 3 of CodeAlpha Artificial Intelligence Internship.
 
 ## Live Demo
-(https://v0-internship-task-completion-swart.vercel.app/object-detection)
+https://v0-internship-task-completion-swart.vercel.app/object-detection
 
 ## Project Description
 A real-time object detection system that uses your webcam to detect and track 80 different object classes in real-time, running entirely in the browser using TensorFlow.js and the COCO-SSD pre-trained model.
